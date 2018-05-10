@@ -1,0 +1,8 @@
+*NEXTCAR_Interface_slrt_rtw/
+*slprj/
+*.autosave
+*.xml
+NEXTCAR_Interfacebio.m
+NEXTCAR_Interfacept.m
+NEXTCAR_Interfaceref.m
+NEXTCAR_Interfaceri.m
